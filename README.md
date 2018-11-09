@@ -30,4 +30,4 @@ node app1.js
 
 ## 运行客户端
 
-然后在浏览器输入：http://localhost:3000/即可看到对应内容
+然后在浏览器输入：http://localhost:3000/ 即可看到对应内容
